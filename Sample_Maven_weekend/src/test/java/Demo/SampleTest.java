@@ -11,4 +11,11 @@ public class SampleTest {
 		Reporter.log("SampleTest executed",true);
 	}
 
+	@Test
+	
+	public void lauch() {
+		Reporter.log("SampleTest executed",true);
+	}
+
 }
+
